@@ -2,49 +2,58 @@
 
 **Minha jornada intensiva de 20 dias para migrar da logística à análise de dados.**
 
-Este repositório documenta meu processo de aprendizado, prática e evolução nessa mudança de carreira. Depois de mais de **30 anos atuando na área de logística**, decidi me reinventar e explorar o mundo dos dados com Python e ferramentas analíticas.
+Depois de mais de **30 anos de experiência em logística**, decidi embarcar numa nova fase profissional: aprender a dominar os dados com Python e ferramentas analíticas. Este repositório documenta meu processo prático e diário de aprendizado.
 
 ---
 
-## 📆 Estrutura da Jornada
+## 🧭 Sobre mim
 
-- `dia1_logica.py`: exercícios de lógica, condicionais e laços
-- `dia2_listas_funcoes.py`: práticas com listas, funções e manipulação de dados
-- `dia3_pandas.ipynb`: primeiros passos com pandas e DataFrames
-- `projetos/`: desafios aplicados com dados reais e cenários logísticos
-
-Cada dia traz novos conceitos e desafios práticos para fortalecer minha base técnica.
+Sou **Carlos**, tenho **52 anos** e acredito que nunca é tarde para recomeçar. Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem de logística e o universo dos dados.
 
 ---
 
-## 🔧 Ferramentas e Tecnologias
+## 📂 Organização do Repositório
 
-- **Python** — linguagem principal de estudo
-- **Jupyter Notebook** — ambiente interativo para exploração de dados
-- **VS Code** — editor de código leve e poderoso
-- **GitHub** — registro público da minha evolução e projetos
+Este repositório contém os desafios e estudos divididos por dia:
+
+| Dia | Tema | Arquivo | Link |
+|-----|------|--------|------|
+| 1 | Lógica com Python | [`dia1_logica.py`](./dia1_logica.py) | ✅ Exercícios de condicionais, laços e lógica |
+| 2 | Listas e Funções | *(em breve)* | Listas, funções definidas pelo usuário |
+| 3 | Introdução ao Pandas | *(em breve)* | Manipulação de dados com pandas |
+| 4 | Limpeza de Dados | *(em breve)* | `dropna()`, `fillna()`, e formatação |
+| 5 | Visualização com Matplotlib | *(em breve)* | Gráficos de linha, barra e pizza |
+| ... | ... | ... | ... |
+| 20 | Projeto Final | *(em breve)* | Análise de dados simulados de logística |
+
+*Acompanhe meu progresso diariamente! Os arquivos serão atualizados conforme avanço na trilha.*
 
 ---
 
-## 💡 Por que essa transição?
+## 🧪 Tecnologias em Uso
 
-A logística me ensinou a organizar, planejar e resolver problemas — habilidades valiosas que combinam perfeitamente com análise de dados. Agora, quero unir esse repertório à inteligência dos dados e abrir novos caminhos profissionais com base em tecnologia, raciocínio analítico e inovação.
+- **Python** — linguagem principal
+- **VS Code** — ambiente de desenvolvimento
+- **Jupyter Notebook** — estudos interativos
+- **GitHub** — registro público da evolução
+- *(em breve)*: pandas, matplotlib, seaborn, SQL
 
 ---
 
 ## 📈 Próximos Passos
 
-- Aprender visualização com `matplotlib` e `seaborn`
-- Estudar SQL e integrações com bases de dados
-- Criar um projeto final com foco em logística baseada em dados
-- Compartilhar conteúdo com a comunidade para inspirar outras transições de carreira
+- Criar mini-projetos usando cenários reais de logística
+- Publicar dashboards e visualizações interativas
+- Compartilhar conhecimento com quem também quer migrar de carreira
 
 ---
 
-## 💬 Conecte-se comigo
+## 🗣️ Quer trocar ideia?
 
-Se quiser trocar ideias, aprender junto ou acompanhar minha evolução, fique à vontade para entrar em contato — esse repositório é mais que código, é uma história de reinvenção.
+Fico feliz em ajudar outros profissionais que estão passando por transições parecidas. É só [mandar uma mensagem por aqui](https://github.com/Carlos/repo/issues) ou acompanhar os commits no GitHub 😄
 
 ---
 
-**Vamos em frente, porque nunca é tarde para começar algo novo. 🧠💪**
+**_"Experiência conta. Curiosidade transforma."_**
+
+Vamos nessa — 20 dias para abrir novos caminhos com dados! 💪📊
