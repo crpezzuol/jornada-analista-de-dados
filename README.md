@@ -1,4 +1,4 @@
-# 🚀 Carlos — Da Logística à Análise de Dados em 20 Dias
+# 🚀 Da Logística à Análise de Dados em 20 Dias
 
 **Minha jornada intensiva de 20 dias para migrar da logística à análise de dados.**
 
