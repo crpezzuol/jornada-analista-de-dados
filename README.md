@@ -1,41 +1,50 @@
-# 📊 Trilha de Transição para Análise de Dados
+# 🚀 Carlos — Da Logística à Análise de Dados em 20 Dias
 
-Seja bem-vindo(a) ao meu repositório de estudos e prática em **Análise de Dados com Python**!
+**Minha jornada intensiva de 20 dias para migrar da logística à análise de dados.**
 
----
-
-## 🧭 Sobre mim
-
-Sou Carlos, tenho **52 anos** e construí uma carreira sólida com mais de **30 anos de experiência em logística**. Agora, estou me dedicando a uma nova fase profissional: migrar para a área de **Análise de Dados** — conectando minha bagagem prática à inteligência dos dados e da tecnologia.
+Este repositório documenta meu processo de aprendizado, prática e evolução nessa mudança de carreira. Depois de mais de **30 anos atuando na área de logística**, decidi me reinventar e explorar o mundo dos dados com Python e ferramentas analíticas.
 
 ---
 
-## 🚀 Objetivo do repositório
+## 📆 Estrutura da Jornada
 
-Este repositório serve como um diário de estudos e evolução, reunindo os desafios, códigos e projetos que estou desenvolvendo durante minha transição de carreira.
+- `dia1_logica.py`: exercícios de lógica, condicionais e laços
+- `dia2_listas_funcoes.py`: práticas com listas, funções e manipulação de dados
+- `dia3_pandas.ipynb`: primeiros passos com pandas e DataFrames
+- `projetos/`: desafios aplicados com dados reais e cenários logísticos
 
----
-
-## 💻 Estrutura
-
-- `dia1_logica.py`: desafios de lógica com Python, focando em estruturas básicas e controle de fluxo
-- Em breve:
-  - `dia2_listas_funcoes.py`: desafios com listas e funções
-  - `dia3_pandas.ipynb`: primeiros passos com análise de dados reais usando pandas
-  - `projetos/`: área dedicada a projetos integradores, como dashboards e análise exploratória
+Cada dia traz novos conceitos e desafios práticos para fortalecer minha base técnica.
 
 ---
 
-## 🎯 Próximos passos
+## 🔧 Ferramentas e Tecnologias
 
-- Estudar bibliotecas como `pandas`, `matplotlib` e `seaborn`
-- Criar um mini-projeto de análise logística com dados simulados
-- Montar um portfólio no GitHub com meus projetos e progresso
+- **Python** — linguagem principal de estudo
+- **Jupyter Notebook** — ambiente interativo para exploração de dados
+- **VS Code** — editor de código leve e poderoso
+- **GitHub** — registro público da minha evolução e projetos
+
+---
+
+## 💡 Por que essa transição?
+
+A logística me ensinou a organizar, planejar e resolver problemas — habilidades valiosas que combinam perfeitamente com análise de dados. Agora, quero unir esse repertório à inteligência dos dados e abrir novos caminhos profissionais com base em tecnologia, raciocínio analítico e inovação.
 
 ---
 
-## ✨ Gratidão
+## 📈 Próximos Passos
 
-Se você chegou até aqui, obrigado por acompanhar minha jornada. Migrar de carreira exige esforço, curiosidade e humildade pra começar do zero. Estou animado pra transformar minha experiência em soluções impulsionadas por dados!
+- Aprender visualização com `matplotlib` e `seaborn`
+- Estudar SQL e integrações com bases de dados
+- Criar um projeto final com foco em logística baseada em dados
+- Compartilhar conteúdo com a comunidade para inspirar outras transições de carreira
 
 ---
+
+## 💬 Conecte-se comigo
+
+Se quiser trocar ideias, aprender junto ou acompanhar minha evolução, fique à vontade para entrar em contato — esse repositório é mais que código, é uma história de reinvenção.
+
+---
+
+**Vamos em frente, porque nunca é tarde para começar algo novo. 🧠💪**
