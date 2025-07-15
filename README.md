@@ -1,4 +1,4 @@
-# 📊 Trilha de Transição para Análise de Dados — Carlos
+# 📊 Trilha de Transição para Análise de Dados
 
 Seja bem-vindo(a) ao meu repositório de estudos e prática em **Análise de Dados com Python**!
 
