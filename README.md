@@ -71,8 +71,12 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 Fico feliz em ajudar outros profissionais que estão passando por transições parecidas.  
 É só mandar uma mensagem por aqui ou acompanhar os commits no GitHub 😄  
 
+✨ "Experiência conta. Curiosidade transforma."  
+
 ---
 
 ✍️ **Acompanhe minha jornada: 30 dias para abrir novos caminhos com dados!** 💪📊
+
+---
 
 👉 Amanhã (23/08/2025) já começamos com o **Dia 1 — Lógica e Fundamentos de Python**.
