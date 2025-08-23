@@ -1,4 +1,4 @@
-# 🚀 Da Logística à Análise de Dados em 30 Dias  
+# 📊 Jornada Analista de Dados — 30 Dias 
 
 Minha jornada prática de **30 dias** para migrar da Logística para a Análise de Dados.  
 
@@ -18,7 +18,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 | Dia | Tema                          | Arquivo                  | Status |
 |-----|-------------------------------|--------------------------|--------|
-| 1   | Lógica com Python             | `dia1_logica.py`         | ✅ Concluído |
+| 1   | Lógica com Python             | _(em breve)_             | |
 | 2   | Listas e Funções              | _(em breve)_             | |
 | 3   | Estruturas de Dados (dicts)   | _(em breve)_             | |
 | 4   | Exercícios práticos Python    | _(em breve)_             | |
@@ -75,4 +75,4 @@ Fico feliz em ajudar outros profissionais que estão passando por transições p
 
 ✍️ **Acompanhe minha jornada: 30 dias para abrir novos caminhos com dados!** 💪📊
 
-Vamos nessa — 20 dias para abrir novos caminhos com dados! 💪📊
+👉 Amanhã (23/08/2025) já começamos com o **Dia 1 — Lógica e Fundamentos de Python**.
