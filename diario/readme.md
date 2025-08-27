@@ -1,0 +1,36 @@
+# 📅 Diário de Estudos — 30 Dias de [Seu Tema Aqui]
+
+Este diário documenta minha jornada de aprendizado durante 30 dias. Cada dia possui anotações técnicas e reflexões pessoais. 🚀
+
+## 📚 Índice
+
+- [Dia 01 — Fundamentos de Python](Dia01.md)
+- [Dia 02](Dia02.md)
+- [Dia 03](Dia03.md)
+- [Dia 04](Dia04.md)
+- [Dia 05](Dia05.md)
+- [Dia 06](Dia06.md)
+- [Dia 07](Dia07.md)
+- [Dia 08](Dia08.md)
+- [Dia 09](Dia09.md)
+- [Dia 10](Dia10.md)
+- [Dia 11](Dia11.md)
+- [Dia 12](Dia12.md)
+- [Dia 13](Dia13.md)
+- [Dia 14](Dia14.md)
+- [Dia 15](Dia15.md)
+- [Dia 16](Dia16.md)
+- [Dia 17](Dia17.md)
+- [Dia 18](Dia18.md)
+- [Dia 19](Dia19.md)
+- [Dia 20](Dia20.md)
+- [Dia 21](Dia21.md)
+- [Dia 22](Dia22.md)
+- [Dia 23](Dia23.md)
+- [Dia 24](Dia24.md)
+- [Dia 25](Dia25.md)
+- [Dia 26](Dia26.md)
+- [Dia 27](Dia27.md)
+- [Dia 28](Dia28.md)
+- [Dia 29](Dia29.md)
+- [Dia 30](Dia30.md)
