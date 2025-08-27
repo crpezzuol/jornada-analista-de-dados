@@ -3,7 +3,7 @@
 ## ✅ O que estudei
 - [ ] Conceitos abordados: Tipos de dados (int, float, str, bool), variáveis, operadores, entrada e saída (input/output).
 - [ ] Exercícios realizados: Exercícios básicos de declaração de variáveis e operações matemáticas.
-- [ ] Materiais usados: Curso "Python para Iniciantes" (YouTube / Alura / Curso em Vídeo), Documentação oficial do Python.
+- [ ] Materiais usados: Curso "Python para Iniciantes" (Curso em Vídeo), Tecnologia em Análise e Desenvolvimento de Sistemas (UNINOVE), Documentação oficial do Python.
 
 ## ⚡ Dificuldades encontradas
 - Entender bem a diferença entre `input()` e tipos de dados.
@@ -23,4 +23,4 @@
 ---
 
 ✍️ *Reflexão pessoal:*  
-> Me senti motivado(a) por começar! Mesmo com algumas dúvidas, consegui avançar bem no conteúdo inicial.
+> Me senti motivado por começar! Mesmo com algumas dúvidas, consegui avançar bem no conteúdo inicial.
