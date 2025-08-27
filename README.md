@@ -94,5 +94,6 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 ---
 
-✨ *"Experiência conta. Curiosidade transforma."*  
+✨ *"Experiência conta. Curiosidade transforma."* 
+🚀 **Início oficial: 27/08/2025 — Dia 1 (Fundamentos de Python (variáveis, tipos)** 
 ✍️ Acompanhe minha jornada: **30 dias para abrir novos caminhos com dados!** 💪📊  
