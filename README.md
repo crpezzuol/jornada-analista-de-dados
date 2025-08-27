@@ -52,7 +52,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 ## ✅ Checklist de Progresso (30 Dias)  
 
-- [x] Dia 1 — Fundamentos de Python  
+- [X] Dia 1 — Fundamentos de Python  
 - [ ] Dia 2 — Estruturas de Controle  
 - [ ] Dia 3 — Funções e Boas Práticas  
 - [ ] Dia 4 — Estruturas de Dados  
