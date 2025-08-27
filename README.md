@@ -17,36 +17,36 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 | Dia | Tema | Arquivo | Status |
 |-----|------|---------|--------|
-| 1   | 🐍 Fundamentos de Python (variáveis, tipos) | (em breve) |   |
-| 2   | Estruturas de controle (if/for/while)   | (em breve) |   |
-| 3   | Funções e boas práticas | (em breve) |   |
-| 4   | Estruturas de dados (listas, dicts) | (em breve) |   |
-| 5   | Estatística básica (média, mediana, desvio) | (em breve) |   |
-| 6   | Introdução ao Pandas (Series, DataFrames) | (em breve) |   |
-| 7   | Limpeza de Dados + Dataset Logística | (em breve) |   |
-| 8   | Operações com DataFrames (filtros, merges) | (em breve) |   |
-| 9   | Visualização com Matplotlib | (em breve) |   |
-| 10  | **Preview Power BI** (importando CSV) | (em breve) |   |
-| 11  | Visualização com Seaborn | (em breve) |   |
-| 12  | Probabilidade Básica | (em breve) |   |
-| 13  | Mini-projeto (Python + Pandas + Estatística) | (em breve) |   |
-| 14  | Introdução ao SQL (SELECT, filtros) | (em breve) |   |
-| 15  | Consultas SQL Avançadas | (em breve) |   |
-| 16  | Integração SQL + Python (SQLite/Postgres) | (em breve) |   |
-| 17  | Revisão Python + Pandas + SQL | (em breve) |   |
-| 18  | Power BI – Fundamentos | (em breve) |   |
-| 19  | Power BI – Dashboards | (em breve) |   |
-| 20  | Storytelling com Dados | (em breve) |   |
-| 21  | Projeto Power BI (Logística) | (em breve) |   |
-| 22  | Estatística Inferencial (testes de hipótese) | (em breve) |   |
-| 23  | Mini-projeto exploratório (dataset aberto) | (em breve) |   |
-| 24  | Boas práticas em GitHub | (em breve) |   |
-| 25  | Relatórios Profissionais (Markdown, PDF) | (em breve) |   |
-| 26  | Integração SQL + Power BI | (em breve) |   |
-| 27  | Revisão Geral | (em breve) |   |
-| 28  | Projeto Final – Parte 1 | (em breve) |   |
-| 29  | Projeto Final – Parte 2 | (em breve) |   |
-| 30  | Entrega e Reflexão Final 🎯 | (em breve) |   |
+| 1   | 🐍 Fundamentos de Python (variáveis, tipos) | (em breve) |  ⏳  |
+| 2   | Estruturas de controle (if/for/while)   | (em breve) |  ⏳  |
+| 3   | Funções e boas práticas | (em breve) |  ⏳  |
+| 4   | Estruturas de dados (listas, dicts) | (em breve) |  ⏳  |
+| 5   | Estatística básica (média, mediana, desvio) | (em breve) |  ⏳  |
+| 6   | Introdução ao Pandas (Series, DataFrames) | (em breve) |  ⏳  |
+| 7   | Limpeza de Dados + Dataset Logística | (em breve) |  ⏳  |
+| 8   | Operações com DataFrames (filtros, merges) | (em breve) |  ⏳  |
+| 9   | Visualização com Matplotlib | (em breve) |  ⏳  |
+| 10  | **Preview Power BI** (importando CSV) | (em breve) |  ⏳  |
+| 11  | Visualização com Seaborn | (em breve) |  ⏳  |
+| 12  | Probabilidade Básica | (em breve) |  ⏳  |
+| 13  | Mini-projeto (Python + Pandas + Estatística) | (em breve) |  ⏳  |
+| 14  | Introdução ao SQL (SELECT, filtros) | (em breve) |  ⏳  |
+| 15  | Consultas SQL Avançadas | (em breve) |  ⏳  |
+| 16  | Integração SQL + Python (SQLite/Postgres) | (em breve) |  ⏳  |
+| 17  | Revisão Python + Pandas + SQL | (em breve) |  ⏳  |
+| 18  | Power BI – Fundamentos | (em breve) |  ⏳  |
+| 19  | Power BI – Dashboards | (em breve) |  ⏳  |
+| 20  | Storytelling com Dados | (em breve) |  ⏳  |
+| 21  | Projeto Power BI (Logística) | (em breve) |  ⏳  |
+| 22  | Estatística Inferencial (testes de hipótese) | (em breve) |  ⏳  |
+| 23  | Mini-projeto exploratório (dataset aberto) | (em breve) |  ⏳  |
+| 24  | Boas práticas em GitHub | (em breve) |  ⏳  |
+| 25  | Relatórios Profissionais (Markdown, PDF) | (em breve) |  ⏳  |
+| 26  | Integração SQL + Power BI | (em breve) |  ⏳  |
+| 27  | Revisão Geral | (em breve) |  ⏳  |
+| 28  | Projeto Final – Parte 1 | (em breve) |  ⏳  |
+| 29  | Projeto Final – Parte 2 | (em breve) |  ⏳  |
+| 30  | Entrega e Reflexão Final 🎯 | (em breve) |  ⏳  |
 
 ---
 
