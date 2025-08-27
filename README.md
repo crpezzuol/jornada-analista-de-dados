@@ -86,11 +86,11 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 ---
 
 ## 🧪 Tecnologias em Uso  
-- **Python** — linguagem principal 🐍 
-- **VS Code** — ambiente de desenvolvimento  
-- **Jupyter Notebook** — estudos interativos  
-- **GitHub** — registro público da evolução  
-- **pandas, matplotlib, seaborn, SQL, Power BI** — em andamento  
+- 🐍 **Python** — linguagem principal  
+- 💻 **VS Code** — ambiente de desenvolvimento  
+- 📓 **Jupyter Notebook** — estudos interativos  
+- 🌐 **GitHub** — registro público da evolução  
+- 📊 **pandas, matplotlib, seaborn, SQL, Power BI** — em andamento  
 
 ---
 
