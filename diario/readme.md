@@ -4,7 +4,7 @@ Este diário documenta minha jornada de aprendizado durante 30 dias. Cada dia po
 
 ## 📚 Índice
 
-- [Dia 01 — Fundamentos de Python](Dia01.md)
+- [Dia 01 — Fundamentos de Python](dia01.md)
 - [Dia 02](Dia02.md)
 - [Dia 03](Dia03.md)
 - [Dia 04](Dia04.md)
