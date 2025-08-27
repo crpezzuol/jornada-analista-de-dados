@@ -17,7 +17,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 | Dia | Tema | Arquivo | Status |
 |-----|------|---------|--------|
-| 1   | Fundamentos de Python (variáveis, tipos) | (em breve) |   |
+| 1   | 🐍 Fundamentos de Python (variáveis, tipos) | (em breve) |   |
 | 2   | Estruturas de controle (if/for/while)   | (em breve) |   |
 | 3   | Funções e boas práticas | (em breve) |   |
 | 4   | Estruturas de dados (listas, dicts) | (em breve) |   |
@@ -86,7 +86,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 ---
 
 ## 🧪 Tecnologias em Uso  
-- **Python** — linguagem principal  
+- **Python** — linguagem principal 🐍 
 - **VS Code** — ambiente de desenvolvimento  
 - **Jupyter Notebook** — estudos interativos  
 - **GitHub** — registro público da evolução  
