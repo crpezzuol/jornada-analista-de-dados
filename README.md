@@ -73,7 +73,7 @@ Fico feliz em ajudar outros profissionais que estão passando por transições p
 
 ---
 
-🚀 **Amanhã (24/08/2025) já começamos com o Dia 1 — Lógica e Fundamentos de Python.**  
+🚀 **Amanhã (27/08/2025) já começamos com o Dia 1 — Lógica e Fundamentos de Python.**  
 Acompanhe os commits diários e veja como cada passo constrói o próximo.  
 
 ✨ "Experiência conta. Curiosidade transforma."  
