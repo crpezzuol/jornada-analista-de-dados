@@ -1,4 +1,4 @@
-# 📅 Diário de Estudos — 30 Dias de [Seu Tema Aqui]
+# 📅 Diário de Estudos — 📊 Jornada Analista de Dados — 30 Dias
 
 Este diário documenta minha jornada de aprendizado durante 30 dias. Cada dia possui anotações técnicas e reflexões pessoais. 🚀
 
