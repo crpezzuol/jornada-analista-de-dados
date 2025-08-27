@@ -23,4 +23,4 @@
 ---
 
 ✍️ *Reflexão pessoal:*  
-> Me senti motivado(a) por começar! Mesmo com algumas dúvidas, consegui avançar bem no conteúdo inicial.
+> Me senti motivado por começar! Mesmo com algumas dúvidas, consegui avançar bem no conteúdo inicial.
