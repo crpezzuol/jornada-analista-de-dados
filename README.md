@@ -17,7 +17,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 | Dia | Tema | Arquivo | Status |
 |-----|------|---------|--------|
-| 1   | 🐍 Fundamentos de Python (variáveis, tipos) | (em breve) |  ⏳ |
+| 1   | Fundamentos de Python (variáveis, tipos) | (em breve) |  ⏳  |
 | 2   | Estruturas de controle (if/for/while)   | (em breve) |  ⏳  |
 | 3   | Funções e boas práticas | (em breve) |  ⏳  |
 | 4   | Estruturas de dados (listas, dicts) | (em breve) |  ⏳  |
@@ -52,7 +52,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 ## ✅ Checklist de Progresso (30 Dias)  
 
-- [ ] Dia 1 — Fundamentos de Python  
+- [x] Dia 1 — Fundamentos de Python  
 - [ ] Dia 2 — Estruturas de Controle  
 - [ ] Dia 3 — Funções e Boas Práticas  
 - [ ] Dia 4 — Estruturas de Dados  
