@@ -1,5 +1,4 @@
 # ex004 - Dissecando uma Variável
-
 msg = input('Digite algo: \033[1;32m')
 print(f'\033[mO tipo primitivo deste valor é: {type(msg)}')
 print(f'Só tem espaços? {msg.isspace()}')
