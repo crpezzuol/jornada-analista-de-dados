@@ -17,7 +17,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 
 | Dia | Tema | Arquivo | Status |
 |-----|------|---------|--------|
-| 1   | Fundamentos de Python (variáveis, tipos) | (  Dia1  ) |  OK  |
+| 1   | Fundamentos de Python (variáveis, tipos) | ( dia1.ex ) |  OK  |
 | 2   | Estruturas de controle (if/for/while)   | (em breve) |  ⏳  |
 | 3   | Funções e boas práticas | (em breve) |  ⏳  |
 | 4   | Estruturas de dados (listas, dicts) | (em breve) |  ⏳  |
