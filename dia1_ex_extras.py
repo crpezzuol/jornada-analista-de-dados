@@ -44,6 +44,20 @@ print(f"\033[m\nO preço do produto com 5% de desconto é R$ {desconto_5:.2f}")
 print(f"O preço do produto com 10% de desconto é R$ {desconto_10:.2f}")
 print(f"O preço do produto com 20% de desconto é R$ {desconto_20:.2f}\n")
 
-# 5️⃣ 
+# 5️⃣ **Conversor de Idade**
+# Peça a idade de uma pessoa em anos e mostre:
+# * Quantos meses ela viveu
+# * Quantas semanas
+# * Quantos dias (considerando 365 dias por ano)
+print("5️⃣  Conversor de Idade:\n")
+idade_anos = int(input("Digite a idade da pessoa em anos: \033[1;32m "))
+idade_meses = idade_anos * 12
+idade_semanas = idade_anos * 52
+idade_dias = idade_anos * 365
+print(f"\033[m\nA pessoa viveu {idade_meses} meses")
+print(f"A pessoa viveu {idade_semanas} semanas")
+print(f"A pessoa viveu {idade_dias} dias\n")
+
+# 6️⃣ 
 
 
