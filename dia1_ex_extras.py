@@ -64,7 +64,7 @@ print(f"A pessoa viveu {idade_semanas} semanas")
 print(f"A pessoa viveu {idade_dias} dias\n")
 
 # 6️⃣ **Hipotenusa de um Triângulo Retângulo**
-#  Peça os dois catetos e calcule a hipotenusa (use a fórmula de Pitágoras).
+# Peça os dois catetos e calcule a hipotenusa (use a fórmula de Pitágoras).
 
 print("6️⃣  Hipotenusa de um Triângulo Retângulo:\n")
 import math # Importando a biblioteca math para usar a função sqrt
@@ -73,6 +73,19 @@ cateto2 = float(input("\033[mDigite o valor do segundo cateto: \033[1;32m "))
 hipotenusa = math.sqrt(cateto1**2 + cateto2**2)
 print(f"\033[m\nA hipotenusa do triângulo retângulo com catetos {cateto1} e {cateto2} é {hipotenusa:.2f}\n")
 
-# 7️⃣ 
+# 7️⃣ **Conversor de Minutos para Horas e Minutos**
+# Peça ao usuário um valor em minutos e converta para horas e minutos restantes.
+# Exemplo de entrada: 135
+# Saída esperada:
+# - Horas: 2
+# - Minutos restantes: 15
 
+print("7️⃣  Conversor de Minutos para Horas e Minutos:\n")
+total_minutos = int(input("Digite o total de minutos: \033[1;32m "))
+horas = total_minutos // 60 # Divisão inteira para obter horas completas
+minutos_restantes = total_minutos % 60 # Resto da divisão para obter minutos restantes
+print(f"\033[m\nHoras: {horas}")
+print(f"Minutos restantes: {minutos_restantes}\n") 
+
+# 8️⃣ 
 
