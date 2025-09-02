@@ -1,6 +1,6 @@
 # 📌 Exercícios Extras – Fixação Dia 1 🧠🔥
 
-# 1️⃣ Dobro, Triplo e Raiz Cúbica
+# 1️⃣ **Dobro, Triplo e Raiz Cúbica**
 # Crie um algoritmo que peça um número inteiro e mostre o dobro, o triplo e a raiz cúbica (com duas casas decimais).
 print("\n" + "📌" * 10 + " Exercícios Extras – Fixação Dia 1 🧠🔥 " + "📌" * 10 + "\n")
 print("1️⃣  Dobro, Triplo e Raiz Cúbica:\n")
@@ -12,7 +12,7 @@ print(f"\033[m\nO dobro de {num} é {dobro}")
 print(f"O triplo de {num} é {triplo}")
 print(f"A raiz cúbica de {num} é {raiz_cubica:.2f}\n")
 
-# 2️⃣ Conversor de Temperatura (Fahrenheit → Celsius/Kelvin)
+# 2️⃣ **Conversor de Temperatura (Fahrenheit → Celsius/Kelvin)**
 # Peça a temperatura em Fahrenheit e mostre a conversão em Celsius e Kelvin.
 print("2️⃣  Conversor de Temperatura (Fahrenheit → Celsius/Kelvin:)\n")
 fah = float(input("Digite a temperatura em Fahrenheit: \033[1;32m "))
@@ -21,7 +21,14 @@ kelvin = celsius + 273.15
 print(f"\033[m\nA temperatura de {fah}°F corresponde a {celsius:.2f}°C")
 print(f"E a temperatura de {fah}°F corresponde a {kelvin:.2f}K\n")
 
-# 3️⃣ 
+# 3️⃣ **Calculadora de Viagem**
+# Peça a distância de uma viagem (km) e a velocidade média do carro (km/h).
+# Mostre quanto tempo levará para concluir a viagem.
+print("3️⃣  Calculadora de Viagem:\n")
+distancia = float(input("Digite a distância da viagem em km: \033[1;32m "))
+velocidade = float(input("\033[mDigite a velocidade média do carro em km/h: \033[1;32m "))
+tempo = distancia / velocidade  # Tempo em horas
+print(f"\033[m\nA viagem de {distancia} km a uma velocidade média de {velocidade} km/h levará {tempo:.2f} horas.\n")
 
 # 4️⃣ 
 
