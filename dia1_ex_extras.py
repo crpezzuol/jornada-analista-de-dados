@@ -106,4 +106,14 @@ print(f"Nome em minúsculas: {nome_minusculas}")
 print(f"Quantidade de letras (sem espaços): {letras_sem_espacos}")
 print(f"Quantidade de letras no primeiro nome: {letras_primeiro_nome}\n")
 
-# 9️⃣ 
+# 9️⃣ **Preço do Combustível**
+# Peça quantos litros de combustível foram abastecidos e o preço por litro.
+# E mostre o valor total a pagar.
+
+print("9️⃣  Preço do Combustível:\n")
+litros = float(input("Digite a quantidade de litros abastecidos: \033[1;32m "))
+preco_litro = float(input("\033[mDigite o preço por litro: \033[1;32m R$ "))
+total_a_pagar = litros * preco_litro # Cálculo do valor total a pagar
+print(f"\033[m\nO valor total a pagar por {litros} litros a R$ {preco_litro:.2f} por litro é R$ {total_a_pagar:.2f}\n") 
+
+# 🔟 
