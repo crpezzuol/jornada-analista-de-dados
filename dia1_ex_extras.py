@@ -87,5 +87,23 @@ minutos_restantes = total_minutos % 60 # Resto da divisão para obter minutos re
 print(f"\033[m\nHoras: {horas}")
 print(f"Minutos restantes: {minutos_restantes}\n") 
 
-# 8️⃣ 
+# 8️⃣ **Analisador de Nome**
+# Peça o nome completo de uma pessoa e mostre:
+# * O nome em maiúsculas;
+# * O nome em minúsculas;
+# * Quantas letras ao todo (desconsiderando espaços);
+# * Quantas letras tem o primeiro nome.
 
+print("8️⃣  Analisador de Nome:\n")
+nome_completo = input("Digite o nome completo: \033[1;32m ").strip()
+nome_maiusculas = nome_completo.upper() # Nome em maiúsculas
+nome_minusculas = nome_completo.lower() # Nome em minúsculas
+letras_sem_espacos = len(nome_completo.replace(" ", "")) # Contagem de letras sem espaços
+primeiro_nome = nome_completo.split()[0] # Obtendo o primeiro nome  
+letras_primeiro_nome = len(primeiro_nome) # Contagem de letras do primeiro nome
+print(f"\033[m\nNome em maiúsculas: {nome_maiusculas}")
+print(f"Nome em minúsculas: {nome_minusculas}")
+print(f"Quantidade de letras (sem espaços): {letras_sem_espacos}")
+print(f"Quantidade de letras no primeiro nome: {letras_primeiro_nome}\n")
+
+# 9️⃣ 
