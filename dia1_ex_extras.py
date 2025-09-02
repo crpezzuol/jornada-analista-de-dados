@@ -116,4 +116,14 @@ preco_litro = float(input("\033[mDigite o preço por litro: \033[1;32m R$ "))
 total_a_pagar = litros * preco_litro # Cálculo do valor total a pagar
 print(f"\033[m\nO valor total a pagar por {litros} litros a R$ {preco_litro:.2f} por litro é R$ {total_a_pagar:.2f}\n") 
 
-# 🔟 
+# 🔟 **Conversor de Moedas (Reais → Dólar, Euro, Iene)**
+# Peça um valor em reais e mostre quanto daria em dólares, euros e ienes (usando cotações fixas).
+
+print("🔟  Conversor de Moedas (Reais → Dólar, Euro, Iene):\n")
+reais = float(input("Digite o valor em reais: \033[1;32m R$ "))
+dolar = reais / 5.25  # Cotação fixa do dólar
+euro = reais / 5.90   # Cotação fixa do euro
+iene = reais / 0.038   # Cotação fixa do iene
+print(f"\033[m\nO valor de R$ {reais:.2f} corresponde a US$ {dolar:.2f}")
+print(f"O valor de R$ {reais:.2f} corresponde a € {euro:.2f}")
+print(f"O valor de R$ {reais:.2f} corresponde a ¥ {iene:.2f}\n") 
