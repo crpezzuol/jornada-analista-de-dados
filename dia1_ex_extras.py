@@ -30,6 +30,20 @@ velocidade = float(input("\033[mDigite a velocidade média do carro em km/h: \03
 tempo = distancia / velocidade  # Tempo em horas
 print(f"\033[m\nA viagem de {distancia} km a uma velocidade média de {velocidade} km/h levará {tempo:.2f} horas.\n")
 
-# 4️⃣ 
+# 4️⃣ **Desconto Progressivo**
+# Peça o valor de um produto e mostre o preço com:
+# * 5% de desconto
+# * 10% de desconto
+# * 20% de desconto
+print("4️⃣  Desconto Progressivo:\n")
+preco = float(input("Digite o valor do produto: \033[1;32m R$ "))
+desconto_5 = preco * 0.95
+desconto_10 = preco * 0.90
+desconto_20 = preco * 0.80
+print(f"\033[m\nO preço do produto com 5% de desconto é R$ {desconto_5:.2f}")
+print(f"O preço do produto com 10% de desconto é R$ {desconto_10:.2f}")
+print(f"O preço do produto com 20% de desconto é R$ {desconto_20:.2f}\n")
 
 # 5️⃣ 
+
+
