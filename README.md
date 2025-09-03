@@ -18,7 +18,7 @@ Com coragem e curiosidade, estou construindo uma nova ponte entre minha bagagem 
 | Dia | Tema | Arquivos | Status |
 |-----|------|----------|--------|
 | 1   | Fundamentos de Python (variáveis, tipos) | ( dia1_ex... ) |  ✅  |
-| 2   | Estruturas de controle (if/for/while)   | (em breve) |  ⏳  |
+| 2   | Estruturas de controle (if/for/while)   | ( dia2_ex... ) |  ⏳  |
 | 3   | Funções e boas práticas | (em breve) |  ⏳  |
 | 4   | Estruturas de dados (listas, dicts) | (em breve) |  ⏳  |
 | 5   | Estatística básica (média, mediana, desvio) | (em breve) |  ⏳  |
