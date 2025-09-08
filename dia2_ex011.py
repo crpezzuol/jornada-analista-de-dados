@@ -49,4 +49,3 @@ else:
 print('\n')
 
 # Fim do exercício
-# Usando try/except para tratar entradas inválidas, tornando-o mais robusto para uso real e mais pythonico por prever entradas erradas.
