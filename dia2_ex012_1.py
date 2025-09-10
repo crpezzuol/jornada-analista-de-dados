@@ -15,10 +15,16 @@ os.system('cls' if os.name == 'nt' else 'clear')
 
 # Iniciando o programa
 print('\n')
+
+# Solicitando o ano de nascimento do usuário
 ano_nasc = int(input("Digite seu ano de nascimento: \033[1;32m"))
 print('\033[m')
+
+# Calculando a idade do usuário
 ano_atual = date.today().year
 idade = ano_atual - ano_nasc
+
+# Mostrando o resultado final
 print(f"Quem nasceu em {ano_nasc} tem {idade} anos em {ano_atual}.")
 if idade == 18:
     print(f"Você tem que se alistar \033[1;31mIMEDIATAMENTE!")
@@ -31,5 +37,6 @@ else:
     print(f"Você já deveria ter se alistado há \033[1;31m{idade - 18}\033[m anos.")
     print(f"Seu alistamento foi em \033[1;32m{ano_nasc + 18}\033[m.")
     print('\033[m')
-# Finalizando o programa
 print('\n')
+
+# Fim do programa
