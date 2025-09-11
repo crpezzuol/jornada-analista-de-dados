@@ -3,3 +3,60 @@
 '''
 Faça um programa que leia o sexo e o ano de nascimento de um jovem e informe, de acordo com seu sexo e a sua idade, se ele precisa se alistar, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento. Seu programa também deverá mostrar o tempo que falta ou que passou do prazo.
 '''
+
+# Importando a biblioteca date do módulo datetime
+from datetime import date
+
+# Importando a biblioteca os para limpar a tela
+import os
+
+# Limpando a tela
+os.system('cls' if os.name == 'nt' else 'clear')    
+
+# Iniciando o programa
+print('\n')
+
+# Mostrando o cabeçalho do programa
+print('\033[1;34m-=-\033[m' * 10)
+print(' ' * 5 + '\033[1;33mALISTAMENTO MILITAR\033[m')
+print('\033[1;34m-=-\033[m' * 10)
+print('\n')
+
+# Solicitando o sexo do usuário
+sexo = str(input("Digite seu sexo [M/F]: \033[1;32m")).strip().upper()
+print('\033[m')
+
+# Verificando o sexo do usuário
+if sexo not in 'MF':
+    print(f"\033[1;31mSexo inválido! Tente novamente.\033[m")
+    print('\n')
+    exit()
+elif sexo == 'F':
+    print(f"\033[1;35mVocê não precisa se alistar!\033[m")
+    print('\n')
+    exit()
+
+# Solicitando o ano de nascimento do usuário
+ano_nasc = int(input("Digite seu ano de nascimento: \033[1;32m"))
+print('\033[m')
+
+# Calculando a idade do usuário
+ano_atual = date.today().year
+idade = ano_atual - ano_nasc
+
+# Mostrando o resultado final
+print(f"Quem nasceu em {ano_nasc} tem {idade} anos em {ano_atual}.")
+if idade == 18:
+    print(f"Você tem que se alistar \033[1;31mIMEDIATAMENTE!")
+    print('\033[m')
+elif idade < 18:
+    print(f"Ainda faltam \033[1;31m{18 - idade}\033[m anos para você se alistar.")
+    print(f"Seu alistamento será em \033[1;32m{ano_nasc + 18}\033[m.")
+    print('\033[m')
+else:
+    print(f"Você já deveria ter se alistado há \033[1;31m{idade - 18}\033[m anos.")
+    print(f"Seu alistamento foi em \033[1;32m{ano_nasc + 18}\033[m.")
+    print('\033[m')
+print('\n')
+
+# Fim do programa
